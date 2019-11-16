@@ -1,0 +1,16 @@
+https://race.netkeiba.com/?pid=race&id=p201905050310&mode=top
+
+p-2019-05-05-03-10
+p-year-?-?-?-Round(1-12)
+
+racelist:
+https://db.netkeiba.com/race/list/20191013/
+
+ここからURLを取得するのがいいかも
+
+
+https://db.netkeiba.com/race/201905050107/
+このページからだとmainrace_data, pay_table_01が取得できる
+
+このページっぽい
+https://race.netkeiba.com/?pid=race&id=p201905050305&mode=top
