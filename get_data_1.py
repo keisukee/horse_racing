@@ -241,9 +241,9 @@ def year_scraping(year):
     join_csv(dir_tmp, file_name)
 
 
-year_scraping(2009)
-year_scraping(2010)
-year_scraping(2011)
+# year_scraping(2009)
+# year_scraping(2010)
+# year_scraping(2011)
 year_scraping(2012)
 year_scraping(2013)
 year_scraping(2014)
